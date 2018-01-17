@@ -1,0 +1,14 @@
+form
+{
+    align:"center";
+}
+  
+h1
+{
+    color : #111111;
+    text-align : center;
+    font-family: "SIMPSON";
+}
+body {
+    background-image: url("index.jpg");
+    }
